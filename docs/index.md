@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A04 Captsone Project: Yelp Recommendation System
 
 You can use the [editor on GitHub](https://github.com/Lannnnnnn/DSC180B/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
