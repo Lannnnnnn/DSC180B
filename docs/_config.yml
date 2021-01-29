@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: A04 Capstone Project - Yelp Recommendation System
+description: We use the Text Mining Techniques AutoPhrase to analyze the review text of the user as our core matrix to build the recommendation system.
